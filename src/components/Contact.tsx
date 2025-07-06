@@ -1,7 +1,7 @@
 
-import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { Mail, Phone, MapPin, Github, Linkedin, Code } from "lucide-react";
+import { Card, CardContent } from "@/components/ui/card";
+import { Code, Github, Linkedin, Mail, MapPin, Phone } from "lucide-react";
 
 export const Contact = () => {
   return (
@@ -48,7 +48,7 @@ export const Contact = () => {
                 <MapPin className="w-6 h-6 text-red-600" />
                 <div>
                   <p className="font-medium text-slate-800">Location</p>
-                  <p className="text-slate-600">Gandhinagar, Gujarat, India</p>
+                  <p className="text-slate-600">Yavatmal, Maharashtra, India</p>
                 </div>
               </div>
             </div>
