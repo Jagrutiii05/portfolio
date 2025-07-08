@@ -80,7 +80,7 @@ export const Contact = () => {
               <Card className="hover:shadow-lg transition-shadow">
                 <CardContent className="p-4">
                   <a 
-                    href="https://linkedin.com/in/jagruti-piprade"
+                    href="https://www.linkedin.com/in/jagruti-piprade-61bb98224/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center space-x-4 text-slate-700 hover:text-slate-900"
